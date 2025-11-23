@@ -1,0 +1,12 @@
+===== RECEIPT =====
+Customer: Humaid
+Order ID: 84002
+
+Item                     Qty     Unit Price     Subtotal
+-------------------------------------------------------------
+Jam                   10      75             750
+
+Final Amount: ₹675.0
+Delivery Address: Vit Bhopal Block 8
+Estimated Delivery: 2025-11-30
+====================
