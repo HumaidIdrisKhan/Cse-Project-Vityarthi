@@ -1,4 +1,4 @@
-# Cse-Project-Vityarthi
+  # Cse-Project-Vityarthi
 A simple Python-based shopping cart system with item management, bulk removal, frequency table billing, and automatic receipt generation.
 
 # 🛒 Shopping Cart System (Python)
@@ -35,6 +35,7 @@ It allows users to:
 ### ✅ Auto Frequency Count
 
 At checkout, you get a clean table:
+
 ![Outputsc3](https://github.com/user-attachments/assets/c00728a7-e883-4c9d-a2e3-d4ece015e94d)
 
 ### ✅ Order Summary
