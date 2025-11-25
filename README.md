@@ -17,10 +17,10 @@ It allows users to:
 
 ## 📌 Features
 
-### ✅ Add Store Items
+### ✅ View Store Items
 
-* The program lets you input 30 items with prices.
-* All items stored in a Python dictionary.
+* The program has 30 items with prices.
+* All items are stored in a Python dictionary.
 
 ### ✅ Add Items to Cart
 
@@ -35,13 +35,7 @@ It allows users to:
 ### ✅ Auto Frequency Count
 
 At checkout, you get a clean table:
-
-Item        | Quantity | Price per unit | Subtotal
---------------------------------------------------
-Jam         |    10    |      75        |   750
-Pen         |    50    |      10        |   500
-Pencil      |    10    |       5        |    50
-
+![Outputsc3](https://github.com/user-attachments/assets/c00728a7-e883-4c9d-a2e3-d4ece015e94d)
 
 ### ✅ Order Summary
 
@@ -62,20 +56,14 @@ The program creates `receipt.txt` containing the full summary.
 
 ## 📁 Project Structure
 
-project/
-│── project.py
-│── receipt.txt  (auto-generated on checkout)
-│── README.md
-
+![Screenshot 2025-11-25 185410](https://github.com/user-attachments/assets/46d832bd-262e-4a8d-b1f2-a5a13ed5891c)
 
 ## 🚀 How to Run
 
 1. Install Python 3.10+
 2. To run the script: python project.py
-
-
 3. Follow the on-screen instructions
-4. At checkout, a `receipt.txt` will be generated in the same folder
+4. At checkout, a `ShoppingCartReceipt.txt` will be generated in the same folder
 
 
 ## 🔧 Technologies Used
