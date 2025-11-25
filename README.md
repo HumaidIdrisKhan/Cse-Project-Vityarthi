@@ -44,6 +44,8 @@ Pencil      |    10    |       5        |    50
 
 
 ### ✅ Order Summary
+![Codesc1](https://github.com/user-attachments/assets/8b8c68ab-e95f-4f5f-ae55-39e9517ef6f5)
+
 
 Includes:
 
